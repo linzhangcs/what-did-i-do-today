@@ -13,20 +13,20 @@
     
     <item>
       <title>Hello</title>
-      <link>https://linzhangcs.github.io/what-did-i-do-today/collection/hello/</link>
-      <pubDate>Mon, 17 Aug 2020 04:57:49 -0700</pubDate>
-      
-      <guid>https://linzhangcs.github.io/what-did-i-do-today/collection/hello/</guid>
-      <description>Hello from physical world 👋</description>
-    </item>
-    
-    <item>
-      <title>Hello</title>
       <link>https://linzhangcs.github.io/what-did-i-do-today/posts/hello/</link>
       <pubDate>Mon, 17 Aug 2020 04:52:29 -0700</pubDate>
       
       <guid>https://linzhangcs.github.io/what-did-i-do-today/posts/hello/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Name of the work 1</title>
+      <link>https://linzhangcs.github.io/what-did-i-do-today/collection/hello/</link>
+      <pubDate>Sat, 05 Nov 2016 18:25:22 +0530</pubDate>
+      
+      <guid>https://linzhangcs.github.io/what-did-i-do-today/collection/hello/</guid>
+      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
     </item>
     
   </channel>
