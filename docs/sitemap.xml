@@ -3,46 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://linzhangcs.github.io/what-did-i-do-today/contact/</loc>
+    <loc>https://linsjournal.netlify.app/collection/2020-08-17-hugo-netlify/</loc>
+    <lastmod>2020-08-17T14:23:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linsjournal.netlify.app/collection/</loc>
+    <lastmod>2020-08-17T14:23:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linsjournal.netlify.app/</loc>
+    <lastmod>2020-08-17T14:23:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://linsjournal.netlify.app/contact/</loc>
     <lastmod>2020-08-17T05:02:10-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://linzhangcs.github.io/what-did-i-do-today/</loc>
-    <lastmod>2020-08-17T05:02:10-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://linzhangcs.github.io/what-did-i-do-today/about/</loc>
+    <loc>https://linsjournal.netlify.app/about/</loc>
     <lastmod>2020-08-17T04:58:26-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://linzhangcs.github.io/what-did-i-do-today/posts/hello/</loc>
+    <loc>https://linsjournal.netlify.app/posts/hello/</loc>
     <lastmod>2020-08-17T04:52:29-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://linzhangcs.github.io/what-did-i-do-today/posts/</loc>
+    <loc>https://linsjournal.netlify.app/posts/</loc>
     <lastmod>2020-08-17T04:52:29-07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://linzhangcs.github.io/what-did-i-do-today/collection/</loc>
+    <loc>https://linsjournal.netlify.app/collection/hello/</loc>
     <lastmod>2016-11-05T18:25:22+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://linzhangcs.github.io/what-did-i-do-today/collection/hello/</loc>
-    <lastmod>2016-11-05T18:25:22+05:30</lastmod>
+    <loc>https://linsjournal.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>https://linzhangcs.github.io/what-did-i-do-today/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://linzhangcs.github.io/what-did-i-do-today/tags/</loc>
+    <loc>https://linsjournal.netlify.app/tags/</loc>
   </url>
   
 </urlset>

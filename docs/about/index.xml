@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on What did i do today</title>
-    <link>https://linzhangcs.github.io/what-did-i-do-today/about/</link>
+    <link>https://linsjournal.netlify.app/about/</link>
     <description>Recent content in About on What did i do today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Aug 2020 04:58:26 -0700</lastBuildDate>
     
-	<atom:link href="https://linzhangcs.github.io/what-did-i-do-today/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://linsjournal.netlify.app/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

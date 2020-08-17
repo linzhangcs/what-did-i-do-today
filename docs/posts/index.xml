@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on What did i do today</title>
-    <link>https://linzhangcs.github.io/what-did-i-do-today/posts/</link>
+    <link>https://linsjournal.netlify.app/posts/</link>
     <description>Recent content in Posts on What did i do today</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 17 Aug 2020 04:52:29 -0700</lastBuildDate>
     
-	<atom:link href="https://linzhangcs.github.io/what-did-i-do-today/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://linsjournal.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hello</title>
-      <link>https://linzhangcs.github.io/what-did-i-do-today/posts/hello/</link>
+      <link>https://linsjournal.netlify.app/posts/hello/</link>
       <pubDate>Mon, 17 Aug 2020 04:52:29 -0700</pubDate>
       
-      <guid>https://linzhangcs.github.io/what-did-i-do-today/posts/hello/</guid>
+      <guid>https://linsjournal.netlify.app/posts/hello/</guid>
       <description></description>
     </item>
     
