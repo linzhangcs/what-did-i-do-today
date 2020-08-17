@@ -1,4 +1,5 @@
-baseurl = "https://linzhangcs.github.io/what-did-i-do-today/"
+#baseurl = "https://linzhangcs.github.io/what-did-i-do-today/"
+baseurl = "https://optimistic-wright-1f934d.netlify.app/"
 title = "What did i do today"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
