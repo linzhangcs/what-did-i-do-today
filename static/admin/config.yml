@@ -17,7 +17,7 @@ collections:
       - { label: 'Thumbnail', name: 'image', widget: 'image' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
-      - {label: "Thumbnail Only", name: "showonlyimage", widget: "boolean", default: true}
+      - {label: "Thumbnail Only", name: "showonlyimage", widget: "boolean", default: false}
       - {label: "Weight", name: "weight", widget: "number", default: 0, valueType: "int"}
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
