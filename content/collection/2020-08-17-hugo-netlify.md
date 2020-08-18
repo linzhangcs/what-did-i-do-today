@@ -8,7 +8,7 @@ weight: 2
 description: My experience of setting up this site, using hugo and netlify cms
   for a project - the JAM stack
 ---
-Day 19 of [\#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click) - I wanted to have a dedicated place for tracking my daily learning. I used Jekyll before for hosting a blog but found it's hard to use for frequent updates. After looking into this, I deployed this site using [hugo](https://gohugo.io/getting-started/quick-start/) and [Netlify cms](https://www.netlifycms.org/docs/hugo/#introduction). The documation is so good on their websites. 
+Day 19 of [\#100DaysOfCode](https://twitter.com/hashtag/100DaysOfCode?src=hashtag_click) - I wanted to have a dedicated place for tracking my daily learning. I used Jekyll before for hosting a blog but found it hard to use for frequent updates. After looking into this, I deployed this site using [hugo](https://gohugo.io/getting-started/quick-start/) and [Netlify cms](https://www.netlifycms.org/docs/hugo/#introduction). The documentation is so good on both of their websites. 
 
 In addition to following the doc, I had to figure out some settings:
 
@@ -16,7 +16,7 @@ In addition to following the doc, I had to figure out some settings:
 
 ![config.toml](/uploads/config_toml.jpg "config for hugo publish directory")
 
-* Netlify setting - I also had issue with Identity settings. You can get a new API token if it's not connecting. Also enable third party OAuth also helps with log into CMS
+* Netlify setting - I also had an issue with Identity settings. You can get a new API token if it's not connecting. Also enable third party OAuth also helps with log into CMS
 
   ![git gateway](/uploads/netlifysetting.jpg "API token")
 
