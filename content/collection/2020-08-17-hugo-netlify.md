@@ -1,5 +1,5 @@
 ---
-title: "Day 19: Hugo & Netlify"
+title: "Day 19: Hugo & Netlify CMS"
 image: /uploads/hugocms.jpg
 date: 2020-08-17T14:23:11.120Z
 draft: false
