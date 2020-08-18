@@ -22,7 +22,7 @@ In addition to following the doc, I had to figure out some settings:
 
   I found including Netlify CMS into the project was pretty easy. It only needs two files: index.html and config.yml. The config file is where I spent the most time because I had to define the needed cms widgets for the required post fields. 
 
-  Here is the UI for the cms once it's deployed and connected:
+  Here is the CMS UI once it's deployed and logged in:
 
   ![cms interface](/uploads/screen-shot-2020-08-18-at-3.46.35-am.png "cms interface")
 
