@@ -1,10 +1,11 @@
 ---
-title: Hugo & Netlify
-image: /uploads/d39d6547afa2eb768ebf581af5adcba3-organic-patterns-line-patterns.jpg
+title: "Day 19: Hugo & Netlify"
+image: /uploads/hugocms.jpg
 date: 2020-08-17T14:23:11.120Z
-draft: false
+draft: true
 showonlyimage: true
 weight: 2
-description: this is very hard for no reason
+description: My experience of setting up this site, using hugo and netlify cms
+  for a project - the JAM stack
 ---
-how is this?
+Day 19
