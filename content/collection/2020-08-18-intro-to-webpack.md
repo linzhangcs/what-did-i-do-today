@@ -3,7 +3,7 @@ title: "Day 18: Intro to Webpack"
 image: /uploads/webpack.jpg
 date: 2020-08-14T18:26:00.000Z
 draft: false
-showonlyimage: true
+showonlyimage: false
 weight: 0
 description: a gentle intro to webpack
 ---
