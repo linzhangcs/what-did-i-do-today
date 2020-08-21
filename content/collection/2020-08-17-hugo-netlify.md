@@ -4,7 +4,7 @@ image: /uploads/hugocms.jpg
 date: 2020-08-17T14:23:11.120Z
 draft: false
 showonlyimage: false
-weight: 2
+weight: 0
 description: My experience of setting up this site, using hugo and netlify cms
   for a project - the JAM stack
 ---
