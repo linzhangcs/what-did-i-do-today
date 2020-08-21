@@ -1,5 +1,5 @@
 ---
-title: "CSS :before pseudo element animation "
+title: "Day 20 CSS :before pseudo element animation "
 image: /uploads/animation.gif
 date: 2020-08-21T06:53:59.067Z
 draft: false
