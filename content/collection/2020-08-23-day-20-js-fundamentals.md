@@ -7,7 +7,7 @@ showonlyimage: false
 weight: 0
 description: "Master the fundamentals🔖 "
 ---
-For a long time, I was focused on the wrong things regarding programming. I looked for quick solutions to my immediate problems but did not stop to think about why and what I was doing. So enough of this, it's definitely not working. Let me go back to the basics, learn all of the fundamentals along with other stuff. 
+Going over the basics! I got to learn and review all of the fundamentals along with other stuff. 
 
 For today, I covered Javascript Fundamentals section 1 - 10  and Objects: the basics section 1! Interesting facts I didn't know before: 
 
