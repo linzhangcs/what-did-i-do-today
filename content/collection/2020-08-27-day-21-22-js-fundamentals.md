@@ -1,5 +1,5 @@
 ---
-title: "Day 21-22: JS Fundamentals"
+title: "Day 22-23: JS Fundamentals"
 image: /uploads/screen-shot-2020-08-26-at-9.24.21-pm.png
 date: 2020-08-27T04:22:58.332Z
 draft: false
