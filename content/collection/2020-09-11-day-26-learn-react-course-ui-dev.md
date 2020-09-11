@@ -9,21 +9,18 @@ description: Review passing data, rendering lists, managing state, functional
   components, validating props with PropTypes, and the component lifecycle
   functions
 ---
-I have done three different intro courses on React already, but I still like to try more courses with new topics that are I have not learned. Currently,  I am following Tyler Mcginnis' React Courses. It has sections on Higher-Order Components. I am looking forward to that next!
+I have done three different intro courses on React already, but I still like to try more courses with new topics that are I have not learned. Currently,  I am following Tyler Mcginnis' React courses. It has sections on Higher-Order Components. I am looking forward to that next!
 
 Today was mostly reviewing what I already know, so I covered 42% of the course. 
 
-What I found meaning during this review was five ways of binding *this* word:
+What I found meaningful during this review were five ways of binding *this* keyword and the component lifecycle functions.
 
-
-
-\>Implicit Binding - most used, refers to the object that is on the left of the dat 
-when the function is invoked
-
-\>Explicit Binding - use call, apply, and bind
+The five ways of binding this keyword:\
+>Implicit Binding - most used, refers to the object that is on the left of the dot when the function is invoked\
+>Explicit Binding - use call, apply, and bind\
 >new keyword Binding - creates a new this object under the hood
->Lexical Binding - use arrow function to solve this explicit binding in handlers
->window Binding - default to window object, but use strict to prevent this behavior
+>Lexical Binding - use the arrow function to solve this explicit binding in handlers
+>window Binding - default to the window object, but 'use strict' to prevent this behavior
 
 Also, the overview on the component lifecycle functions is great. 
 
