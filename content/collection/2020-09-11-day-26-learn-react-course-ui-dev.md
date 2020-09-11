@@ -1,5 +1,5 @@
 ---
-title: "Day 26: Learn React Course UI.dev"
+title: "Day 26: UI.dev React Course - part one"
 image: /uploads/screen-shot-2020-09-10-at-9.33.46-pm.png
 date: 2020-09-11T06:34:08.239Z
 draft: false
