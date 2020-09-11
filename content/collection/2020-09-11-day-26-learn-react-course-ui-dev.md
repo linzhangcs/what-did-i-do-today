@@ -15,12 +15,13 @@ Today was mostly reviewing what I already know, so I covered 42% of the course.
 
 What I found meaningful during this review were five ways of binding *this* keyword and the component lifecycle functions.
 
-The five ways of binding this keyword:\
->Implicit Binding - most used, refers to the object that is on the left of the dot when the function is invoked\
->Explicit Binding - use call, apply, and bind\
->new keyword Binding - creates a new this object under the hood
->Lexical Binding - use the arrow function to solve this explicit binding in handlers
->window Binding - default to the window object, but 'use strict' to prevent this behavior
+The five ways of binding this keyword:
+
+* Implicit Binding - most used, refers to the object that is on the left of the dot when the function is invoked
+* Explicit Binding - use call, apply, and bind
+* new keyword Binding - creates a new this object under the hood
+* Lexical Binding - use the arrow function to solve this explicit binding in handlers
+* window Binding - default to the window object, but 'use strict' to prevent this behavior
 
 Also, the overview on the component lifecycle functions is great. 
 
