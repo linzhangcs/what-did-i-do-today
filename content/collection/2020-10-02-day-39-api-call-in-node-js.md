@@ -1,7 +1,7 @@
 ---
 title: "Day 39: API Call in Node.js"
 image: /uploads/screen-shot-2020-10-02-at-4.38.40-pm.png
-date: 2020-10-02T23:32:12.430Z
+date: 2020-09-25T23:32:12.430Z
 draft: false
 showonlyimage: false
 weight: 0
