@@ -9,6 +9,8 @@ description: I did a technical interview was not fast enough at implementing the
 ---
 ### Retrospectives
 
+Today I did a technical interviewing with karat - it's an interview platform. Their service is doing technical interviewing for companies. 
+
 ##### well done:
 
 \- focused on the questions and the interviewer
@@ -33,7 +35,7 @@ description: I did a technical interview was not fast enough at implementing the
 
 ![star method](/uploads/behavioral-job-interview-questions-2061629_round2-5b4f594846e0fb005b443466.webp "star method")
 
-\- prepare an explanation of biggest technical challenge - problem, task, action, and result
+\- prepare an explanation of the biggest technical challenge - problem, task, action, and result
 
 \- practice my response - maybe record myself
 
