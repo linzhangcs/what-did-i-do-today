@@ -2,7 +2,7 @@
 title: "Day 43: Tech Screening Retro"
 image: /uploads/screen-shot-2020-10-12-at-9.08.36-pm.png
 date: 2020-10-12T00:32:46.093Z
-draft: true
+draft: false
 showonlyimage: false
 weight: 0
 description: Retro of the two screening questions on hackerrank
