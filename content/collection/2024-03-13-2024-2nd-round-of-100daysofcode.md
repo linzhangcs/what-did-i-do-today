@@ -7,21 +7,17 @@ showonlyimage: false
 weight: 0
 description: "starting a new round of #100daysofcode R2D1 "
 ---
-M﻿y last round of #100daysofcode was in 2020. That was four years ago, it was a good experience, but I stopped after 80 days. Starting a new job was pretty demanding and could cope with more coding after a whole day of looking at a screen.  
+M﻿y last round of #100daysofcode was in 2020. That was four years ago, it was a good experience, but I stopped after 80 days. Starting a new job was pretty demanding and could not cope with more coding after a whole day of looking at a screen.  
 
 I have a better outlook on work now, a much more healthy one! I want to continue coding practice and add more activities. Instead of only doing online tutorials, I will use more structured and interactive ways of learning. Books, projects, and online pair programming. This will make this round more fun and varied! 
 
 A﻿lso I have some specific goals and tech I want to explore and achieve:
 
-
 * design and build my personal design system
-
 * make a new version of my portolio
 * d﻿esign and build an full-stack app
 * p﻿air programming - practice good technical communication - 2 sessions per weeks
 * p﻿ractice project management for my personal projects  - kanban / scrumn
 * o﻿ptional - contribute to an open source project
 
-T﻿hat's definitely enough work for 100 days!  GO 2﻿024, excited to get better at coding :)  
-
-<iframe src="https://giphy.com/embed/dY1DoxjYYtvXjRelGG" width="280" height="300" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/molangofficialpage-molang-dY1DoxjYYtvXjRelGG">via GIPHY</a></p>
+T﻿hat's definitely enough work for 100 days!  GO 2﻿024, excited to get better at coding :)
