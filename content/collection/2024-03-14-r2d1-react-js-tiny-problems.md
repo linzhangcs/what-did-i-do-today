@@ -7,7 +7,7 @@ showonlyimage: false
 weight: 0
 description: "#100daysofcode R2D1"
 ---
-I﻿ did 3 tiny problems for react useState and useEffect hooks:
+I﻿ did 3 tiny problems for practicing react useState and useEffect hooks: 
 
 1. [show/hide btn ](https://codesandbox.io/p/sandbox/reactchallenges-usestate2-forked-tslzxt?file=%2Fsrc%2FApp.js)
 2. [form submission ](https://codesandbox.io/p/sandbox/hooks-usestate-form-q-forked-76xxkx?file=%2Fsrc%2FApp.js)
