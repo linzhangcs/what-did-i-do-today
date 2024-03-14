@@ -13,4 +13,4 @@ I﻿ did 3 tiny problems for practicing react useState and useEffect hooks:
 2. [form submission ](https://codesandbox.io/p/sandbox/hooks-usestate-form-q-forked-76xxkx?file=%2Fsrc%2FApp.js)
 3. [start/stop/reset timer](https://codesandbox.io/p/sandbox/hooks-usestate-timer-q-forked-4ddv9y?file=%2Fsrc%2FApp.js)
 
-O﻿ne thing I debugged today was passing the previous timer value to the setTimer callback function. I thought setTime(time + 1) would refer to the time variable. Man, there is still something i feel like i am unclear about this :|
+O﻿ne thing I debugged today was passing the previous timer value to the setTime callback function. I thought setTime(time + 1) would refer to the time variable. There is still something i feel like i am unclear about this :|. it's straightforward should be setTime(time => time + 1). I think I need to read the doc to see why I am still kinda confused.
